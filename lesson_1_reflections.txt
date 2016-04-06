@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+-- The diff command showed me the line numbers where the content was different between the two files.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+ -- I will be able to revert back to an older version that worked. I can compare 2 versions of a file for any changes that were made.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+-- When you choose to manually commit after a logical change in the code you avoid having a cluttered version of the changes you made. Your versions are more easily managed.
+-- When your versions are automatically saved, like Google, you risk saving incomplete code. It might also save too many versions. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+-- Saving multiple files in one commit is good when the changes in the files are linked to each other. It allows the user to track changes in code regarding a specific process.
+-- Saving each file seperately allow only review of that specific file and there for cannot track other files that are related to that file.
+
+How can you use the commands git log and git diff to view the history of files?
+
+-- You can use the git log to have a view of all the git commits that you have made. The git diff can be used to view changes within the commits that you have made.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+-- Version control allows me to revert my code back to a previous version that worked. So, in essense, I can be more confident when I implement new code. Even if the new code were to break the system, I can go back to a version that worked previously.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+-- I'm not sure what the use of the staging server is yet. As far as I can see I cannot preview/browse these files within my browser. Can I? I would think that I can view all these files within my broser for testing right out of my working golder.
