@@ -16,12 +16,17 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+--  Forks: This is a repository that is cloned from one user's repository to another user's repository and both
+exists on GitHub. This would only be used when I want to make a clone/copy of someone else repository to work on.
+--  Clone: This is a duplicate of the remote repository that exists on your local machine. This would only be used
+when you are collaborating with others on the remote repository.
+--  Branches: This is basicly a different version of your repository. This would only be used if you want to test
+code before integrating it into the master branch.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+-- It keeps you updated with any changes that were made.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
