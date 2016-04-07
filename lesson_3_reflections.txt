@@ -1,5 +1,6 @@
 This is my lesson 3 reflections.
 Made some extra updates to the file.
+More changes.
 
 When would you want to use a remote repository rather than keeping all your work
 local?
